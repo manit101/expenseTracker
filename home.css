@@ -68,7 +68,7 @@ h1, h2 {
     display: flex;
     justify-content: space-evenly;
     margin-top: 4em;
-    margin-bottom: 1em;
+    margin-bottom: 2em;
 }
 .feature {
     background-color: white;

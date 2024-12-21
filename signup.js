@@ -14,7 +14,7 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig); 
-const auth = getAuth(app); e
+const auth = getAuth(app); 
 
 // Submit button
 const submit = document.getElementById('signup-btn');
